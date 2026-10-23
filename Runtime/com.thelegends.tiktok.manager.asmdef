@@ -1,7 +1,10 @@
 {
     "name": "com.thelegends.tiktok.manager",
     "rootNamespace": "com.thelegends.tiktok.manager",
-    "references": [],
+    "references": [
+        "GUID:b9892e19a741c2c4690060e4a6416aca",
+        "GUID:ad5340e0d1e9ba5458e313020955aa9c"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
