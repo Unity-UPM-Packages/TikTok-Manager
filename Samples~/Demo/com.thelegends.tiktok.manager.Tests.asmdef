@@ -1,0 +1,16 @@
+{
+    "name": "com.thelegends.tiktok.manager.Demo",
+    "rootNamespace": "com.thelegends.tiktok.manager.Demo",
+    "references": [
+        "com.thelegends.tiktok.manager"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
